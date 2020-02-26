@@ -37,13 +37,14 @@
 					background-color: _palette(accent);
 					color: _palette(bg) !important;
 
-					&:hover {
-						background-color: lighten(_palette(accent), 3);
-					}
+					// @TODO: finish these
+					// &:hover {
+					// 	background-color: lighten(_palette(accent), 3);
+					// }
 
-					&:active {
-						background-color: darken(_palette(accent), 3);
-					}
+					// &:active {
+					// 	background-color: darken(_palette(accent), 3);
+					// }
 				}
 			}
 
